@@ -1,2 +1,3 @@
 # Painter
-C++
+C++ 
+MFC
