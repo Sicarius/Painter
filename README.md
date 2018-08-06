@@ -1,2 +1,2 @@
-# painter
+# Painter
 C++
